@@ -1,8 +1,8 @@
 body {
     width: 95%;
     margin: auto;
-    background: url(tecnologia.png) no-repeat ;
-    background-size: 100%;
+    background: url(tecc.png) no-repeat ;
+    background-size: 110%;
     font-family: "lato";
     line-height: 1.5 ;
 }
@@ -12,15 +12,16 @@ img {
 }
 
 .main {
-    background: #00000054;
+    background: #000000d3;
     padding: 10px 40px 0% ;
-    margin-top: 0px;
+    margin-left: 2%;
+    margin-top: 48px;
     float: right;
     border-radius: auto;
     }
 
     main {
-        display: flex;
+        
     }
 
     .logo {
@@ -51,13 +52,29 @@ img {
     }
     .textt {
         color: white;
+        font-family: 'DotGothic16', sans-serif;
     }
 
     .l {
         color: white;
+        font-family: 'DotGothic16', sans-serif;
     }
 
     .ei {
         color: white;
+        font-family: 'DotGothic16', sans-serif;
     }
-    
+    .fonte {
+        font-family: 'DotGothic16', sans-serif;
+    }
+
+    .f1{
+        font-family: 'DotGothic16', sans-serif;
+    }
+        .f2 {
+            font-family: 'DotGothic16', sans-serif;
+        }
+        .f3 {
+            font-family: 'DotGothic16', sans-serif;
+        }
+     
